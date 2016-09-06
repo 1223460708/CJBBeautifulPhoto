@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D9AD3D0D99804FC67735756 /* libPods-CJBBeautifulPhoto.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 680DA6BAE6E88948FB8AE229 /* libPods-CJBBeautifulPhoto.a */; };
+		74015A6F1D7678F900473D73 /* CJBShowImageVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 74015A6E1D7678F900473D73 /* CJBShowImageVC.m */; };
 		74F0E4BE1D7520FC008F7890 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F0E4BD1D7520FC008F7890 /* main.m */; };
 		74F0E4C11D7520FC008F7890 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F0E4C01D7520FC008F7890 /* AppDelegate.m */; };
 		74F0E4C41D7520FC008F7890 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F0E4C31D7520FC008F7890 /* ViewController.m */; };
@@ -15,6 +17,10 @@
 		74F0E4CC1D7520FC008F7890 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74F0E4CA1D7520FC008F7890 /* LaunchScreen.storyboard */; };
 		74F0E4D71D7520FC008F7890 /* CJBBeautifulPhotoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F0E4D61D7520FC008F7890 /* CJBBeautifulPhotoTests.m */; };
 		74F0E4E21D7520FC008F7890 /* CJBBeautifulPhotoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F0E4E11D7520FC008F7890 /* CJBBeautifulPhotoUITests.m */; };
+		74F0E4F01D752CB3008F7890 /* 5683e4908b168_1024.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 74F0E4EF1D752CB3008F7890 /* 5683e4908b168_1024.jpg */; };
+		74F0E4F71D755D69008F7890 /* CJBKindCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F0E4F51D755D69008F7890 /* CJBKindCollectionViewCell.m */; };
+		74F0E4F81D755D69008F7890 /* CJBKindCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74F0E4F61D755D69008F7890 /* CJBKindCollectionViewCell.xib */; };
+		74F0E4FA1D756907008F7890 /* squares.png in Resources */ = {isa = PBXBuildFile; fileRef = 74F0E4F91D756907008F7890 /* squares.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +41,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		680DA6BAE6E88948FB8AE229 /* libPods-CJBBeautifulPhoto.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CJBBeautifulPhoto.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		74015A6D1D7678F900473D73 /* CJBShowImageVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CJBShowImageVC.h; sourceTree = "<group>"; };
+		74015A6E1D7678F900473D73 /* CJBShowImageVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CJBShowImageVC.m; sourceTree = "<group>"; };
 		74F0E4B91D7520FC008F7890 /* CJBBeautifulPhoto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CJBBeautifulPhoto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74F0E4BD1D7520FC008F7890 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		74F0E4BF1D7520FC008F7890 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +60,13 @@
 		74F0E4DD1D7520FC008F7890 /* CJBBeautifulPhotoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CJBBeautifulPhotoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		74F0E4E11D7520FC008F7890 /* CJBBeautifulPhotoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CJBBeautifulPhotoUITests.m; sourceTree = "<group>"; };
 		74F0E4E31D7520FC008F7890 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74F0E4EF1D752CB3008F7890 /* 5683e4908b168_1024.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5683e4908b168_1024.jpg; sourceTree = "<group>"; };
+		74F0E4F41D755D69008F7890 /* CJBKindCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CJBKindCollectionViewCell.h; sourceTree = "<group>"; };
+		74F0E4F51D755D69008F7890 /* CJBKindCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CJBKindCollectionViewCell.m; sourceTree = "<group>"; };
+		74F0E4F61D755D69008F7890 /* CJBKindCollectionViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CJBKindCollectionViewCell.xib; sourceTree = "<group>"; };
+		74F0E4F91D756907008F7890 /* squares.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = squares.png; sourceTree = "<group>"; };
+		BC3AC808E60D21E96CBABEFA /* Pods-CJBBeautifulPhoto.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CJBBeautifulPhoto.release.xcconfig"; path = "Pods/Target Support Files/Pods-CJBBeautifulPhoto/Pods-CJBBeautifulPhoto.release.xcconfig"; sourceTree = "<group>"; };
+		EEB32E86844BC68A05A30726 /* Pods-CJBBeautifulPhoto.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CJBBeautifulPhoto.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CJBBeautifulPhoto/Pods-CJBBeautifulPhoto.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D9AD3D0D99804FC67735756 /* libPods-CJBBeautifulPhoto.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +95,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0EC5E7A18B745233B76479A6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				680DA6BAE6E88948FB8AE229 /* libPods-CJBBeautifulPhoto.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		74F0E4B01D7520FC008F7890 = {
 			isa = PBXGroup;
 			children = (
@@ -85,6 +110,8 @@
 				74F0E4D51D7520FC008F7890 /* CJBBeautifulPhotoTests */,
 				74F0E4E01D7520FC008F7890 /* CJBBeautifulPhotoUITests */,
 				74F0E4BA1D7520FC008F7890 /* Products */,
+				988EA14ED3937138BD682D53 /* Pods */,
+				0EC5E7A18B745233B76479A6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,10 +132,17 @@
 				74F0E4C01D7520FC008F7890 /* AppDelegate.m */,
 				74F0E4C21D7520FC008F7890 /* ViewController.h */,
 				74F0E4C31D7520FC008F7890 /* ViewController.m */,
+				74015A6D1D7678F900473D73 /* CJBShowImageVC.h */,
+				74015A6E1D7678F900473D73 /* CJBShowImageVC.m */,
+				74F0E4F41D755D69008F7890 /* CJBKindCollectionViewCell.h */,
+				74F0E4F51D755D69008F7890 /* CJBKindCollectionViewCell.m */,
+				74F0E4F61D755D69008F7890 /* CJBKindCollectionViewCell.xib */,
 				74F0E4C51D7520FC008F7890 /* Main.storyboard */,
 				74F0E4C81D7520FC008F7890 /* Assets.xcassets */,
 				74F0E4CA1D7520FC008F7890 /* LaunchScreen.storyboard */,
 				74F0E4CD1D7520FC008F7890 /* Info.plist */,
+				74F0E4EF1D752CB3008F7890 /* 5683e4908b168_1024.jpg */,
+				74F0E4F91D756907008F7890 /* squares.png */,
 				74F0E4BC1D7520FC008F7890 /* Supporting Files */,
 			);
 			path = CJBBeautifulPhoto;
@@ -140,6 +174,15 @@
 			path = CJBBeautifulPhotoUITests;
 			sourceTree = "<group>";
 		};
+		988EA14ED3937138BD682D53 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EEB32E86844BC68A05A30726 /* Pods-CJBBeautifulPhoto.debug.xcconfig */,
+				BC3AC808E60D21E96CBABEFA /* Pods-CJBBeautifulPhoto.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,9 +190,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 74F0E4E61D7520FC008F7890 /* Build configuration list for PBXNativeTarget "CJBBeautifulPhoto" */;
 			buildPhases = (
+				B8DAEBDAF38179AB8773D1D8 /* [CP] Check Pods Manifest.lock */,
 				74F0E4B51D7520FC008F7890 /* Sources */,
 				74F0E4B61D7520FC008F7890 /* Frameworks */,
 				74F0E4B71D7520FC008F7890 /* Resources */,
+				5135503037BFA4EF6EBCD542 /* [CP] Embed Pods Frameworks */,
+				D04BA630D70854E4227B6235 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -207,6 +253,7 @@
 				TargetAttributes = {
 					74F0E4B81D7520FC008F7890 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = LKDBXQSVX6;
 					};
 					74F0E4D11D7520FC008F7890 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -243,9 +290,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74F0E4F01D752CB3008F7890 /* 5683e4908b168_1024.jpg in Resources */,
 				74F0E4CC1D7520FC008F7890 /* LaunchScreen.storyboard in Resources */,
+				74F0E4FA1D756907008F7890 /* squares.png in Resources */,
 				74F0E4C91D7520FC008F7890 /* Assets.xcassets in Resources */,
 				74F0E4C71D7520FC008F7890 /* Main.storyboard in Resources */,
+				74F0E4F81D755D69008F7890 /* CJBKindCollectionViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,6 +315,54 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		5135503037BFA4EF6EBCD542 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CJBBeautifulPhoto/Pods-CJBBeautifulPhoto-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B8DAEBDAF38179AB8773D1D8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		D04BA630D70854E4227B6235 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CJBBeautifulPhoto/Pods-CJBBeautifulPhoto-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		74F0E4B51D7520FC008F7890 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -272,7 +370,9 @@
 			files = (
 				74F0E4C41D7520FC008F7890 /* ViewController.m in Sources */,
 				74F0E4C11D7520FC008F7890 /* AppDelegate.m in Sources */,
+				74F0E4F71D755D69008F7890 /* CJBKindCollectionViewCell.m in Sources */,
 				74F0E4BE1D7520FC008F7890 /* main.m in Sources */,
+				74015A6F1D7678F900473D73 /* CJBShowImageVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,23 +513,31 @@
 		};
 		74F0E4E71D7520FC008F7890 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EEB32E86844BC68A05A30726 /* Pods-CJBBeautifulPhoto.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = CJBBeautifulPhoto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chenjiabing.CJBBeautifulPhoto;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
 		74F0E4E81D7520FC008F7890 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BC3AC808E60D21E96CBABEFA /* Pods-CJBBeautifulPhoto.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = CJBBeautifulPhoto/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.chenjiabing.CJBBeautifulPhoto;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -498,6 +606,7 @@
 				74F0E4E81D7520FC008F7890 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		74F0E4E91D7520FC008F7890 /* Build configuration list for PBXNativeTarget "CJBBeautifulPhotoTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +615,7 @@
 				74F0E4EB1D7520FC008F7890 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		74F0E4EC1D7520FC008F7890 /* Build configuration list for PBXNativeTarget "CJBBeautifulPhotoUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +624,7 @@
 				74F0E4EE1D7520FC008F7890 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
